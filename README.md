@@ -129,7 +129,7 @@ const kartik = {
     <td width="50%">
       <h3 align="center">E-Commerce Shopify Store</h3>
       <div align="center">
-        <a href="PROJECT_LINK" target="_blank">
+        <a href="https://tabld.com/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-3B82F6?style=for-the-badge&logo=shopify&logoColor=white" alt="Project"/>
         </a>
         <p><strong>HTML, CSS, Liquid, Shopify</strong> - Custom theme with Metafields 2.0 integration for dynamic product catalog</p>
